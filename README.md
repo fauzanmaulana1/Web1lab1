@@ -1,5 +1,9 @@
 # Web1lab1
 
+### Fauzan Maulana
+### 312010115
+### TI.20.D.1
+
 ![image](https://user-images.githubusercontent.com/101807419/163190050-5ad42a41-4860-45f6-9a8d-fbc4a2f9a7dd.png)
 
 Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah eror ketika terjadi kesalahan penulisan tag ? Jawabannya =D HTML sebanarnya tidak pernah eror, hanya saja tampilan diwebsitenya akan menjadi berantakan bila kita ada kesalahan dalam memberi format HTMLnya. biasanya ada posisi tampilan yang keatas, padahal kita maunya dibawah. ada teksnya yang besar semua padahal kita maunya teks yang tertentu saja yang besar. dan tentunya pasti saja banyak keluhan keluhan lainnya.
